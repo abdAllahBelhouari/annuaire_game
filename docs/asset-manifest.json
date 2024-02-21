@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abdAllahBelhouari/annuaire_games/static/css/main.c1265e49.css",
-    "main.js": "/abdAllahBelhouari/annuaire_games/static/js/main.7269e9fc.js",
-    "service-worker.js": "/abdAllahBelhouari/annuaire_games/service-worker.js",
-    "index.html": "/abdAllahBelhouari/annuaire_games/index.html",
-    "static/media/ErrorMessage": "/abdAllahBelhouari/annuaire_games/static/media/ErrorMessage.4dcd65ee5323fe23d50d",
-    "main.c1265e49.css.map": "/abdAllahBelhouari/annuaire_games/static/css/main.c1265e49.css.map",
-    "main.7269e9fc.js.map": "/abdAllahBelhouari/annuaire_games/static/js/main.7269e9fc.js.map"
+    "main.css": "/annuaire_game/static/css/main.c1265e49.css",
+    "main.js": "/annuaire_game/static/js/main.c5ec4dc5.js",
+    "service-worker.js": "/annuaire_game/service-worker.js",
+    "index.html": "/annuaire_game/index.html",
+    "static/media/ErrorMessage": "/annuaire_game/static/media/ErrorMessage.4dcd65ee5323fe23d50d",
+    "main.c1265e49.css.map": "/annuaire_game/static/css/main.c1265e49.css.map",
+    "main.c5ec4dc5.js.map": "/annuaire_game/static/js/main.c5ec4dc5.js.map"
   },
   "entrypoints": [
     "static/css/main.c1265e49.css",
-    "static/js/main.7269e9fc.js"
+    "static/js/main.c5ec4dc5.js"
   ]
 }
