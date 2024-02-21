@@ -39,7 +39,7 @@ function App() {
       path:"/myshop",
       element:<MyShop/>, 
     }, 
-  ], {basename:"/"})
+  ], {basename:"/annuaire_game"})
 
   const [dataLoaded, setDataLoaded] = useState(false);
   
