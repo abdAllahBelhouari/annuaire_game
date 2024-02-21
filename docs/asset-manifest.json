@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abdAllahBelhouari/annuaire_games/static/css/main.c1265e49.css",
+    "main.js": "/abdAllahBelhouari/annuaire_games/static/js/main.7269e9fc.js",
+    "service-worker.js": "/abdAllahBelhouari/annuaire_games/service-worker.js",
+    "index.html": "/abdAllahBelhouari/annuaire_games/index.html",
+    "static/media/ErrorMessage": "/abdAllahBelhouari/annuaire_games/static/media/ErrorMessage.4dcd65ee5323fe23d50d",
+    "main.c1265e49.css.map": "/abdAllahBelhouari/annuaire_games/static/css/main.c1265e49.css.map",
+    "main.7269e9fc.js.map": "/abdAllahBelhouari/annuaire_games/static/js/main.7269e9fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1265e49.css",
+    "static/js/main.7269e9fc.js"
+  ]
+}
